@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Mini Quizzes
 uid: 5b481eff-157b-19d5-ed16-7c4b6220d00b
 ---
@@ -27,7 +30,7 @@ Unit I: (Numerical) Calculus—Interpolation, Integration, Differentiation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Unit II: Probability; Statistical Estimation; Monte-Carlo Methods
 {{< tdclose >}}
 {{< tdopen >}}
@@ -42,7 +45,7 @@ Unit II: Probability; Statistical Estimation; Monte-Carlo Methods
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Unit III: (Numerical) Linear Algebra I—Matrices and Vectors, Least-Squares; Regression
 {{< tdclose >}}
 {{< tdopen >}}

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a special file related to ODE.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2014/1d342175bba72bfa7df5f22d5e14bba3_ODEs.zip
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/1d342175bba72bfa7df5f22d5e14bba3_ODEs.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: MATLAB Tutorials
+parent_type: CourseSection
 resourcetype: Other
 title: ODEs.zip
 uid: 1d342175-bba7-2bfa-7df5-f22d5e14bba3

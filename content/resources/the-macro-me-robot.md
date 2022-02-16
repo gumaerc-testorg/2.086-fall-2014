@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Readings
+optional_tab_title: ''
+optional_text: ''
+parent_title: Readings
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Macro-Me Robot
 uid: a22234bd-3f22-3219-a5a9-5c7525a60e10

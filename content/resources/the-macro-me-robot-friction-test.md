@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Readings
+optional_tab_title: ''
+optional_text: ''
+parent_title: Readings
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'The Macro-Me Robot: Friction Test'
 uid: 9a61995d-3c89-7778-318c-cb20e988efa0

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: MATLAB Tutorials
 uid: cb79aabd-9092-dadd-23de-ad3d60b7f8b6
 ---
@@ -11,14 +13,14 @@ uid: cb79aabd-9092-dadd-23de-ad3d60b7f8b6
 UNITS
 {{< thclose >}}
 {{< thopen >}}
-MATLAB® FILES
+MATLAB{{< sup "®" >}} FILES
 {{< thclose >}}
 
 {{< trclose >}}
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Unit I: (Numerical) Calculus—Interpolation, Integration, Differentiation
 {{< tdclose >}}
 {{< tdopen >}}
@@ -33,7 +35,7 @@ Unit I: (Numerical) Calculus—Interpolation, Integration, Differentiation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Unit II: Probability; Statistical Estimation; Monte-Carlo Methods
 {{< tdclose >}}
 {{< tdopen >}}
@@ -66,7 +68,7 @@ Unit IV: Numerical Ordinary Differential Equations (ODEs); Eigenproblems
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Unit V: (Numerical) Linear Algebra II—Linear Systems; Nonlinear Systems
 {{< tdclose >}}
 {{< tdopen >}}

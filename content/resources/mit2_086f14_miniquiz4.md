@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding nutshell
   on matrices and vectors.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2014/42b2dcab72a091056a3498727fe34f65_MIT2_086F14_MiniQuiz4.pdf
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/42b2dcab72a091056a3498727fe34f65_MIT2_086F14_MiniQuiz4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Mini Quizzes
+parent_type: CourseSection
 resourcetype: Document
 title: '2.086 Numerical Computation for Mechanical Engineers, Mini Quiz 4: Nutshell
   on Matrices and Vectors'

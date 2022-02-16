@@ -1,10 +1,13 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: beaff389-6649-44c3-f09b-250a057f5b69
 ---
 
-The textbook for the course is the online textbook Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Unpublished manuscript. The entire textbook is ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[available for download as a single file (PDF - 18.6MB)](/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf). The textbook is referred to as MATLAB®: Textbook in the table below.  
+The textbook for the course is the online textbook Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Unpublished manuscript. The entire textbook is ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[available for download as a single file (PDF - 18.6MB)](/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf). The textbook is referred to as MATLAB{{< sup "®" >}}: Textbook in the table below.{{< sup "  \n" >}}
 
 The less-is-more variant of the textbook is available in the [Nutshells & GUIs section]({{< baseurl >}}/pages/nutshells-guis): Masayuki Yano, et al. _Math, Numerics, & Programming for Mechanical Engineers... in a Nutshell_, V1.1, 2014. Unpublished manuscript.
 
@@ -35,7 +38,7 @@ Math and Numerics
 
 *   [Unit I Nutshells]({{< baseurl >}}/pages/nutshells-guis)
 
-MATLAB: Textbook  
+MATLAB: Textbook{{< sup "  \n" >}}
 
 *   Chapter 4
 *   Section 5.1

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a special file related assignment_4_templates.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2014/76dabcb16a0364ab2d86480974713843_Assignment_4_Template.zip
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/76dabcb16a0364ab2d86480974713843_Assignment_4_Template.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: Assignment_4_Template.zip
 uid: 76dabcb1-6a03-64ab-2d86-480974713843

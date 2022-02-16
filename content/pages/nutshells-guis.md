@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Nutshells & GUIs
 uid: c1184683-2f8e-b177-a27b-737a8d313019
 ---
@@ -41,7 +43,7 @@ GUIS
 [Unit I GUIs (ZIP)]({{< baseurl >}}/resources/guis) (This ZIP file contains: 3 .fig files and 3 .p files.)
 
 Note: To run the interpolation gui, type  
-interpolation\_gui(from within the \\guis" folder) in the MATLAB® command window; similarly for the integration\_gui and differentiation\_gui.
+interpolation\_gui(from within the \\guis" folder) in the MATLAB{{< sup "®" >}} command window; similarly for the integration\_gui and differentiation\_gui.
 
 
 {{< tdclose >}}

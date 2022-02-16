@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a special file related matlab tutorial 1-2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2014/cbd1f61182d055faa6cde3682675b07d_fsolve_MATLAB_Tutorial.m
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/cbd1f61182d055faa6cde3682675b07d_fsolve_MATLAB_Tutorial.m
 file_type: text/x-objcsrc
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: MATLAB Tutorials
+parent_type: CourseSection
 resourcetype: Other
 title: fsolve_MATLAB_Tutorial.m
 uid: cbd1f611-82d0-55fa-a6cd-e3682675b07d

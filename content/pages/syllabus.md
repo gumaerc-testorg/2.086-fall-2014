@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7a813ed7-b7d9-5d0e-74d0-4e14ee80341d
 ---
@@ -9,7 +11,7 @@ Course Meeting Times
 
 Recitations: 1 session / week, 3 hours / session
 
-The primary student-faculty contact opportunities are (i) the 3-hour weekly recitation, focused on MATLAB® skills and more generally the application of the course material as motivated by the assignments, and (ii) the several weekly office hours with the course staff.
+The primary student-faculty contact opportunities are (i) the 3-hour weekly recitation, focused on MATLAB{{< sup "®" >}} skills and more generally the application of the course material as motivated by the assignments, and (ii) the several weekly office hours with the course staff.
 
 Course Content
 --------------
@@ -54,7 +56,7 @@ Software
 
 This course is based on MATLAB. MIT students can run MATLAB on their own laptops, or use the shared machines in the class recitation / lab room.
 
-\[Note to OCW Users: MIT OpenCourseWare does not provide student access or discounts for MATLAB software. It can be purchased from The MathWorks®. For more information about MATLAB Pricing and Licensing, contact The MathWorks® directly.\]
+\[Note to OCW Users: MIT OpenCourseWare does not provide student access or discounts for MATLAB software. It can be purchased from The MathWorks{{< sup "®" >}}. For more information about MATLAB Pricing and Licensing, contact The MathWorks{{< sup "®" >}} directly.\]
 
 Assessment
 ----------

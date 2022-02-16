@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 3580417f-1d22-a9ba-f974-b212d3ee25ef
 ---
@@ -11,7 +13,7 @@ uid: 3580417f-1d22-a9ba-f974-b212d3ee25ef
 WEEK #
 {{< thclose >}}
 {{< thopen >}}
-MATLAB® TOPICS
+MATLAB{{< sup "®" >}} TOPICS
 {{< thclose >}}
 {{< thopen >}}
 ASSESSMENTS
