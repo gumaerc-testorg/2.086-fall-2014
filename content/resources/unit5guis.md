@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Nutshells & GUIs
 parent_type: CourseSection
+parent_uid: c1184683-2f8e-b177-a27b-737a8d313019
 resourcetype: Other
 title: Unit V GUI
 uid: c4b70a7a-555e-f072-1b8d-8ad6de293b47

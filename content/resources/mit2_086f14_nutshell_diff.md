@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Nutshells & GUIs
 parent_type: CourseSection
+parent_uid: c1184683-2f8e-b177-a27b-737a8d313019
 resourcetype: Document
 title: Differentiation
 uid: d25e9d10-e9cd-4bd5-dcc6-6422dedc0ada

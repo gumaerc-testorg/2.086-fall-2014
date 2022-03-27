@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Tutorials
 parent_type: CourseSection
+parent_uid: cb79aabd-9092-dadd-23de-ad3d60b7f8b6
 resourcetype: Other
 title: Matrix_Operations_and_Least_Squares_Tutorial(1).m
 uid: fad2f826-939a-8eea-2f78-8bc97182ef2b

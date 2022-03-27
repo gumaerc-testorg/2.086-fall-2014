@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Tutorials
 parent_type: CourseSection
+parent_uid: cb79aabd-9092-dadd-23de-ad3d60b7f8b6
 resourcetype: Other
 title: Functions_MATLAB_Tutorial.zip
 uid: 0c65703e-20c3-9e29-69f7-e0dd2c51d7d8

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93ae0013-3708-3468-bad3-76082ff69074
 resourcetype: Other
 title: Assignment_2_Templates.zip
 uid: 8dc5cafb-2e52-2692-d1c3-074337e8ac6f

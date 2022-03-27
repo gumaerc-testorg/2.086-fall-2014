@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Tutorials
 parent_type: CourseSection
+parent_uid: cb79aabd-9092-dadd-23de-ad3d60b7f8b6
 resourcetype: Other
 title: Single_Index_Arrays_Matlab_Tutorial-1.m
 uid: 4e1f76bd-c4d3-7857-ea9c-c390e04b7b42

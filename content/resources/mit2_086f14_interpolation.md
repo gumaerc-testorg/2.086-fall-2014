@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Nutshells & GUIs
 parent_type: CourseSection
+parent_uid: c1184683-2f8e-b177-a27b-737a8d313019
 resourcetype: Document
 title: Interpolation
 uid: fbffccb9-1851-1874-abd8-fd8b3f256688

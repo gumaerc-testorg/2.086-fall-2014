@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Tutorials
 parent_type: CourseSection
+parent_uid: cb79aabd-9092-dadd-23de-ad3d60b7f8b6
 resourcetype: Other
 title: ODEs.zip
 uid: 1d342175-bba7-2bfa-7df5-f22d5e14bba3

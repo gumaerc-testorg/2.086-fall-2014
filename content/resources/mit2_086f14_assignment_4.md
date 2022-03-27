@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93ae0013-3708-3468-bad3-76082ff69074
 resourcetype: Document
 title: 2.086 Numerical Computation for Mechanical Engineers, Assignment 4
 uid: 6b7b1768-78f1-d389-4e6e-3fad47b9ba47

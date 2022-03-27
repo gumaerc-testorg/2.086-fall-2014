@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Tutorials
 parent_type: CourseSection
+parent_uid: cb79aabd-9092-dadd-23de-ad3d60b7f8b6
 resourcetype: Other
 title: fsolve_MATLAB_Tutorial.m
 uid: cbd1f611-82d0-55fa-a6cd-e3682675b07d

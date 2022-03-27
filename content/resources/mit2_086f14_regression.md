@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Nutshells & GUIs
 parent_type: CourseSection
+parent_uid: c1184683-2f8e-b177-a27b-737a8d313019
 resourcetype: Document
 title: 'Regression: Least Squares and Statistical Inference. . .in a Nutshell'
 uid: c894a0d7-9426-0a3e-3cd0-f90997a80261

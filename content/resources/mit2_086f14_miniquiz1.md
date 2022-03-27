@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Mini Quizzes
 parent_type: CourseSection
+parent_uid: 5b481eff-157b-19d5-ed16-7c4b6220d00b
 resourcetype: Document
 title: '2.086 Numerical Computation for Mechanical Engineers, Mini Quiz 1: Nutshell
   on Interpolation'
