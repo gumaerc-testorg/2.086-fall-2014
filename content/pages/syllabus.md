@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, content,
+  objectives, textbook, software, assessment, and policies for collaboration and missed
+  work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -47,9 +50,9 @@ The student should adopt:
 Course Textbook
 ---------------
 
-The textbook for the course is the online textbook: Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Unpublished manuscript. The manuscript is available for download in the [Readings]({{< baseurl >}}/pages/readings) section.
+The textbook for the course is the online textbook: Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Unpublished manuscript. The manuscript is available for download in the {{% resource_link beaff389-6649-44c3-f09b-250a057f5b69 "Readings" %}} section.
 
-The less-is-more variant of the textbook is available in the [Nutshells & GUIs section]({{< baseurl >}}/pages/nutshells-guis): Masayuki Yano, et al. _Math, Numerics, & Programming for Mechanical Engineers... in a Nutshell_. V1.1, 2014. Unpublished manuscript. 
+The less-is-more variant of the textbook is available in the {{% resource_link c1184683-2f8e-b177-a27b-737a8d313019 "Nutshells & GUIs section" %}}: Masayuki Yano, et al. _Math, Numerics, & Programming for Mechanical Engineers... in a Nutshell_. V1.1, 2014. Unpublished manuscript. 
 
 Software
 --------

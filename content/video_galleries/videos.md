@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section contain video demonstrations of robots used in the course.
 is_media_gallery: true
 learning_resource_types:
 - Videos
