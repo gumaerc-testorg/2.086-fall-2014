@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section contain video demonstrations of robots used in the course.
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: CourseSection
 title: Videos
 uid: 0de8b5a2-587a-eac1-1a06-aa21b2ba695b
 videos:

@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course, supporting
+  videos, and a downloadable version of the textbook.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: beaff389-6649-44c3-f09b-250a057f5b69
 ---
 
-The textbook for the course is the online textbook Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Unpublished manuscript. The entire textbook is ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[available for download as a single file (PDF - 18.6MB)](/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf). The textbook is referred to as MATLAB®: Textbook in the table below.  
+The textbook for the course is the online textbook Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Unpublished manuscript. The entire textbook is [available for download as a single file (PDF - 18.6MB)](/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf). The textbook is referred to as MATLAB{{< sup "®" >}}: Textbook in the table below.{{< sup "  \n" >}}
 
-The less-is-more variant of the textbook is available in the [Nutshells & GUIs section]({{< baseurl >}}/pages/nutshells-guis): Masayuki Yano, et al. _Math, Numerics, & Programming for Mechanical Engineers... in a Nutshell_, V1.1, 2014. Unpublished manuscript.
+The less-is-more variant of the textbook is available in the {{% resource_link c1184683-2f8e-b177-a27b-737a8d313019 "Nutshells & GUIs section" %}}: Masayuki Yano, et al. _Math, Numerics, & Programming for Mechanical Engineers... in a Nutshell_, V1.1, 2014. Unpublished manuscript.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -33,9 +38,9 @@ SUPPORTING VIDEOS
 
 Math and Numerics
 
-*   [Unit I Nutshells]({{< baseurl >}}/pages/nutshells-guis)
+*   {{% resource_link c1184683-2f8e-b177-a27b-737a8d313019 "Unit I Nutshells" %}}
 
-MATLAB: Textbook  
+MATLAB: Textbook{{< sup "  \n" >}}
 
 *   Chapter 4
 *   Section 5.1
@@ -45,7 +50,7 @@ MATLAB: Textbook
 {{< tdopen >}}
 
 
-[The Macro-Me Robot]({{< baseurl >}}/resources/the-macro-me-robot)
+{{% resource_link a22234bd-3f22-3219-a5a9-5c7525a60e10 "The Macro-Me Robot" %}}
 
 Video of a 2.086 robot performing IR range finding and odometry. (Courtesy of James Penn. Used with permission.)
 
@@ -65,7 +70,7 @@ Video of a 2.086 robot performing IR range finding and odometry. (Courtesy of Ja
 
 Math and Numerics
 
-*   [Unit II Nutshells]({{< baseurl >}}/pages/nutshells-guis)
+*   {{% resource_link c1184683-2f8e-b177-a27b-737a8d313019 "Unit II Nutshells" %}}
 
 MATLAB: Textbook
 
@@ -96,7 +101,7 @@ There are no supporting videos in this unit.
 
 Math and Numerics
 
-*   [Unit III Nutshells]({{< baseurl >}}/pages/nutshells-guis)
+*   {{% resource_link c1184683-2f8e-b177-a27b-737a8d313019 "Unit III Nutshells" %}}
 
 MATLAB: Textbook
 
@@ -107,7 +112,7 @@ MATLAB: Textbook
 {{< tdopen >}}
 
 
-[The Macro-Me Robot: Friction Test]({{< baseurl >}}/resources/the-macro-me-robot-friction-test)
+{{% resource_link 9a61995d-3c89-7778-318c-cb20e988efa0 "The Macro-Me Robot: Friction Test" %}}
 
 Video of a 2.086 robot attempting to push a load on two different surfaces. (Courtesy of James Penn. Used with permission.)
 
@@ -127,7 +132,7 @@ Video of a 2.086 robot attempting to push a load on two different surfaces. (Cou
 
 Math and Numerics
 
-*   [Unit IV Nutshells]({{< baseurl >}}/pages/nutshells-guis)
+*   {{% resource_link c1184683-2f8e-b177-a27b-737a8d313019 "Unit IV Nutshells" %}}
 
 MATLAB: Textbook
 
@@ -138,7 +143,7 @@ MATLAB: Textbook
 {{< tdopen >}}
 
 
-[Macro-Me Suspension]({{< baseurl >}}/resources/macro-me-suspension)
+{{% resource_link 5a6922ee-b9be-54b1-f756-4414384c69b8 "Macro-Me Suspension" %}}
 
 Video of a 2.086 robot driving over a small bump at three different velocities. (Courtesy of James Penn. Used with permission.)
 
@@ -158,7 +163,7 @@ Video of a 2.086 robot driving over a small bump at three different velocities. 
 
 Math and Numerics
 
-*   [Unit V Nutshells]({{< baseurl >}}/pages/nutshells-guis)
+*   {{% resource_link c1184683-2f8e-b177-a27b-737a8d313019 "Unit V Nutshells" %}}
 *   Chapter 24
 *   Chapter 26
 *   Chapter 27
@@ -174,7 +179,7 @@ MATLAB: Textbook
 {{< tdopen >}}
 
 
-[Robot Arm Demo]({{< baseurl >}}/resources/robot-arm-demo)
+{{% resource_link 0031d76e-240c-fa2e-deef-146bad40a2c9 "Robot Arm Demo" %}}
 
 Video of a 2.086 robot arm tracking a specified trajectory. (Courtesy of James Penn. Used with permission.)
 

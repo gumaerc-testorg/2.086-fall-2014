@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, content,
+  objectives, textbook, software, assessment, and policies for collaboration and missed
+  work.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7a813ed7-b7d9-5d0e-74d0-4e14ee80341d
 ---
@@ -9,7 +14,7 @@ Course Meeting Times
 
 Recitations: 1 session / week, 3 hours / session
 
-The primary student-faculty contact opportunities are (i) the 3-hour weekly recitation, focused on MATLAB® skills and more generally the application of the course material as motivated by the assignments, and (ii) the several weekly office hours with the course staff.
+The primary student-faculty contact opportunities are (i) the 3-hour weekly recitation, focused on MATLAB{{< sup "®" >}} skills and more generally the application of the course material as motivated by the assignments, and (ii) the several weekly office hours with the course staff.
 
 Course Content
 --------------
@@ -45,16 +50,16 @@ The student should adopt:
 Course Textbook
 ---------------
 
-The textbook for the course is the online textbook: Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Unpublished manuscript. The manuscript is available for download in the [Readings]({{< baseurl >}}/pages/readings) section.
+The textbook for the course is the online textbook: Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Unpublished manuscript. The manuscript is available for download in the {{% resource_link beaff389-6649-44c3-f09b-250a057f5b69 "Readings" %}} section.
 
-The less-is-more variant of the textbook is available in the [Nutshells & GUIs section]({{< baseurl >}}/pages/nutshells-guis): Masayuki Yano, et al. _Math, Numerics, & Programming for Mechanical Engineers... in a Nutshell_. V1.1, 2014. Unpublished manuscript. 
+The less-is-more variant of the textbook is available in the {{% resource_link c1184683-2f8e-b177-a27b-737a8d313019 "Nutshells & GUIs section" %}}: Masayuki Yano, et al. _Math, Numerics, & Programming for Mechanical Engineers... in a Nutshell_. V1.1, 2014. Unpublished manuscript. 
 
 Software
 --------
 
 This course is based on MATLAB. MIT students can run MATLAB on their own laptops, or use the shared machines in the class recitation / lab room.
 
-\[Note to OCW Users: MIT OpenCourseWare does not provide student access or discounts for MATLAB software. It can be purchased from The MathWorks®. For more information about MATLAB Pricing and Licensing, contact The MathWorks® directly.\]
+\[Note to OCW Users: MIT OpenCourseWare does not provide student access or discounts for MATLAB software. It can be purchased from The MathWorks{{< sup "®" >}}. For more information about MATLAB Pricing and Licensing, contact The MathWorks{{< sup "®" >}} directly.\]
 
 Assessment
 ----------

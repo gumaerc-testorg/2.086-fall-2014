@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: The Macro-Me Robot
 uid: ec1a28a1-0312-0f77-2bf1-da79a2b63253
 video_files:
@@ -15,3 +27,4 @@ video_metadata:
 ---
 
 **Description**: Video of a 2.086 robot performing IR range finding and odometry. (Courtesy of James Penn. Used with permission.)
+
