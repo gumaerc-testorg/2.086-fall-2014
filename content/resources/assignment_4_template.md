@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/76
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment_4_Template.zip
 uid: 76dabcb1-6a03-64ab-2d86-480974713843
 ---
 This is a special file related assignment_4_templates.
-

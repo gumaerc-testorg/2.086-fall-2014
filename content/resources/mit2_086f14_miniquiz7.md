@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/c1
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Mini Quizzes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '2.086 Numerical Computation for Mechanical Engineers, Mini Quiz 7: Nutsh
 uid: c12f446b-9311-5e51-b970-e2c1abca4859
 ---
 This is a resource file that contains information regarding nutshell on linear systems of equations...in a nutshell.
-

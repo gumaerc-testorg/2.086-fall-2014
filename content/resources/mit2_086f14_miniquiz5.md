@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/71
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Mini Quizzes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '2.086 Numerical Computation for Mechanical Engineers, Mini Quiz 5: Nutsh
 uid: 71e6da03-9bd4-6876-ca0f-d4ea84380f53
 ---
 This is a resource file that contains information regarding least squares formulation.
-

@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/86
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Mini Quizzes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '2.086 Numerical Computation for Mechanical Engineers, Mini Quiz 6: Nutsh
 uid: 863abe80-2373-b5ac-5bea-eea0ec35e9c4
 ---
 This is a resource file that contains information regarding nutshell on numerical treatment of IVP ODE.
-

@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/3a
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.086BaseballSimulator1.zip
 uid: 3adc7116-73de-38d8-2d07-1c742d7ade53
 ---
 This is a special file that contains information related to baseball simulator.
-
