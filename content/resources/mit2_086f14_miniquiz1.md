@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding nutshell
   on interpolation.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/a1c86a41788d22e9e877e14450fbca40_MIT2_086F14_MiniQuiz1.pdf
+file_size: 644168
 file_type: application/pdf
 learning_resource_types:
 - Exams

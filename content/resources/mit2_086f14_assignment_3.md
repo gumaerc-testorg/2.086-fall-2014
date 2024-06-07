@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding assignment 3.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/e7ca0d8f4c8b3671033463a5d9f1164e_MIT2_086F14_Assignment_3.pdf
+file_size: 404254
 file_type: application/pdf
 learning_resource_types:
 - Assignments
