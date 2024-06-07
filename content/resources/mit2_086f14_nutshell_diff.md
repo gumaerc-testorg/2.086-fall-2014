@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding differentiation.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/d25e9d10e9cd4bd5dcc66422dedc0ada_MIT2_086F14_Nutshell_Diff.pdf
+file_size: 375427
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

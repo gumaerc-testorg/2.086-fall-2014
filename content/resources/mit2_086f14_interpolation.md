@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding interpolation.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/fbffccb918511874abd8fd8b3f256688_MIT2_086F14_Interpolation.pdf
+file_size: 413034
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
