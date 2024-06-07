@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a resource file that contains information regarding introduction
   to probability and statistics. '
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/7959f29e82bbacc3a63b4a30f854b32a_MIT2_086F14_Probability.pdf
+file_size: 3042758
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

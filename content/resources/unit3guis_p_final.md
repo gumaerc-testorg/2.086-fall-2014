@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file related unit I guis.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/79e3cdfe29bdec15093b9e98c63592d1_unit3guis_p_final.zip
+file_size: 20108
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

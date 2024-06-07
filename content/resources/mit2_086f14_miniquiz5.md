@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding least squares
   formulation.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/71e6da039bd46876ca0fd4ea84380f53_MIT2_086F14_MiniQuiz5.pdf
+file_size: 191690
 file_type: application/pdf
 learning_resource_types:
 - Exams
