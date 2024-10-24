@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding least squares
   formulation.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/ebdc6fb9efb14157eaef20712053903c_MIT2_086F14_Fitting_Data.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/ebdc6fb9efb14157eaef20712053903c_MIT2_086F14_Fitting_Data.pdf
 file_size: 539743
 file_type: application/pdf
 learning_resource_types: []
