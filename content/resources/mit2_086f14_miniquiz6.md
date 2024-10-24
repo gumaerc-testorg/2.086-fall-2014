@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding nutshell
   on numerical treatment of IVP ODE.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/863abe802373b5ac5beaeea0ec35e9c4_MIT2_086F14_MiniQuiz6.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/863abe802373b5ac5beaeea0ec35e9c4_MIT2_086F14_MiniQuiz6.pdf
 file_size: 205052
 file_type: application/pdf
 learning_resource_types:

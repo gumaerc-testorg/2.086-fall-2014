@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding regression.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/c894a0d794260a3e3cd0f90997a80261_MIT2_086F14_Regression.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/c894a0d794260a3e3cd0f90997a80261_MIT2_086F14_Regression.pdf
 file_size: 324854
 file_type: application/pdf
 learning_resource_types: []

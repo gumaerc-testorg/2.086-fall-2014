@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file related functions matlab tutorial. '
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/0c65703e20c39e2969f7e0dd2c51d7d8_Functions_MATLAB_Tutorial.zip
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/0c65703e20c39e2969f7e0dd2c51d7d8_Functions_MATLAB_Tutorial.zip
 file_size: 2186
 file_type: application/zip
 learning_resource_types: []
