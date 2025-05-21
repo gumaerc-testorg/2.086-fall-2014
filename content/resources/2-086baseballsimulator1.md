@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a special file that contains information related to baseball
   simulator.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/3adc711673de38d82d071c742d7ade53_2.086BaseballSimulator1.zip
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/3adc711673de38d82d071c742d7ade53_2.086BaseballSimulator1.zip
 file_size: 638250
 file_type: application/zip
 learning_resource_types:
