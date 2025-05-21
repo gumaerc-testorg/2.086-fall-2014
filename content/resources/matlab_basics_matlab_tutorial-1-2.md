@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related matlab tutorial 1-2.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/c7e7f525343e9d720ce26183b68baf28_Matlab_Basics_Matlab_Tutorial-1-2.m
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/c7e7f525343e9d720ce26183b68baf28_Matlab_Basics_Matlab_Tutorial-1-2.m
 file_size: 5286
 file_type: text/x-objcsrc
 learning_resource_types: []

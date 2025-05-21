@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related assignment_4_templates.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/76dabcb16a0364ab2d86480974713843_Assignment_4_Template.zip
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/76dabcb16a0364ab2d86480974713843_Assignment_4_Template.zip
 file_size: 28019
 file_type: application/zip
 learning_resource_types:
