@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding matrices
   and vectors.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/a6d73c84e413fcba80f3e01f5be1ae26_MIT2_086F14_Matrices.pdf
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/a6d73c84e413fcba80f3e01f5be1ae26_MIT2_086F14_Matrices.pdf
 file_size: 413104
 file_type: application/pdf
 learning_resource_types: []
