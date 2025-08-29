@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding monte carlo
   integration.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/30d8b5da0c8e6ad44987b3563bc32dab_MIT2_086F14_Monte_Carlo.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/30d8b5da0c8e6ad44987b3563bc32dab_MIT2_086F14_Monte_Carlo.pdf
 file_size: 589354
 file_type: application/pdf
 learning_resource_types: []

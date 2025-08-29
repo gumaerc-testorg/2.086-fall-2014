@@ -55,12 +55,13 @@
     "website": "2-086-numerical-computation-for-mechanical-engineers-fall-2014"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Demonstration Videos",
     "Exams",
     "Programming Assignments"
   ],
   "site_uid": "8816ef68-2994-4d63-ade0-99c97cecb2c3",
   "site_short_id": "2.086-fall-2014",
+  "site_url_path": "courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014",
   "title": "Course Metadata"
 }

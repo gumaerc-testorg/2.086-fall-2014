@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-file_size: '1842797'
+file_size: 1842797
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Readings
+- Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,5 +30,7 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/gX-5_CYcSsc/default.jpg
   video_transcript_file: null
 video_metadata:
+  source: youtube
   youtube_id: gX-5_CYcSsc
 ---
+**Description:** Video of a 2.086 robot driving over a small bump at three different velocities. (Courtesy of James Penn. Used with permission.)

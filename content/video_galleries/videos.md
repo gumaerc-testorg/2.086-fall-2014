@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: This section contain video demonstrations of robots used in the course.
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Videos
@@ -9,13 +10,10 @@ title: Videos
 uid: 0de8b5a2-587a-eac1-1a06-aa21b2ba695b
 videos:
   content:
-  - ec1a28a1-0312-0f77-2bf1-da79a2b63253
-  - 96eda69a-dc97-64ca-7593-447ff6689986
-  - 4262d65a-78f1-b7cc-93d5-a8c3fba83e3a
-  - 8770982c-5ff8-2ef0-dc8f-5a05852186d7
+  - a22234bd-3f22-3219-a5a9-5c7525a60e10
+  - 9a61995d-3c89-7778-318c-cb20e988efa0
+  - 5a6922ee-b9be-54b1-f756-4414384c69b8
+  - 0031d76e-240c-fa2e-deef-146bad40a2c9
   website: 2-086-numerical-computation-for-mechanical-engineers-fall-2014
 ---
-
-
 {{< video-gallery "0de8b5a2-587a-eac1-1a06-aa21b2ba695b" >}}
-
