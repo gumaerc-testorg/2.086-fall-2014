@@ -63,7 +63,7 @@ Note: To launch a GUI\_NAME\_gui.p", you should enter NAME\_gui in the MATLAB co
 
 {{% resource_link "068775dc-a10e-75da-bec9-e5eedd4b5dcf" "Numerical Treatment of Initial Value Problem (IVP) Ordinary Differential Equations (ODEs) (PDF)" %}}
 
-{{% resource_link "71ebc9d6-cf4b-4c02-a1a6-119317389094" "Stability: ODEs and Eigenproblems (Video)" %}}    
+[Stability: ODEs and Eigenproblems (Video)](https://ocw-studio.odl.mit.edu/courses/res-tll-004-stem-concept-videos-fall-2013/resources/stability-analysis)    
 (The first few minutes of the video address a topic beyond our 2.086 coverage, but the remainder of the video is germane to 2.086 and, in particular, directly relevant to Question 6 of Assignment 4.)
 
 {{< tdclose >}}{{< tdopen >}}
